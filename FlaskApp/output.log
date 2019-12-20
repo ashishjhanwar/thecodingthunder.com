@@ -392,3 +392,16 @@
 127.0.0.1 - - [20/Dec/2019 14:21:33] "GET /static/js/clean-blog.min.js HTTP/1.1" 200 -
 127.0.0.1 - - [20/Dec/2019 14:21:56] "GET / HTTP/1.1" 200 -
 127.0.0.1 - - [20/Dec/2019 14:21:57] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [20/Dec/2019 14:24:30] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Dec/2019 14:24:30] "GET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Dec/2019 14:24:31] "GET /static/css/clean-blog.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Dec/2019 14:24:31] "GET /static/img/coding.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [20/Dec/2019 14:24:31] "GET /static/vendor/fontawesome-free/css/all.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Dec/2019 14:24:31] "GET /static/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [20/Dec/2019 14:24:31] "GET /static/js/clean-blog.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [20/Dec/2019 14:24:31] "GET /static/vendor/jquery/jquery.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [20/Dec/2019 14:24:31] "GET /static/vendor/fontawesome-free/webfonts/fa-brands-400.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [20/Dec/2019 14:24:31] "GET /static/vendor/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [20/Dec/2019 14:24:31] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [20/Dec/2019 14:24:50] "GET /?page=2 HTTP/1.1" 200 -
+127.0.0.1 - - [20/Dec/2019 14:25:25] "GET / HTTP/1.1" 200 -
